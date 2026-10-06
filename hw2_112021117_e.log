@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\88696\OneDrive\桌面\電子學一\電子學一Hw\hw2_112021117\hw2_112021117_e.net
+Start Time: Tue Jun 16 15:47:28 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.053 seconds.
+
+Files loaded:
+C:\Users\88696\OneDrive\桌面\電子學一\電子學一Hw\hw2_112021117\hw2_112021117_e.net
+C:\Users\88696\AppData\Local\LTspice\lib\cmp\standard.bjt
+
