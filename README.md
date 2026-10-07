@@ -36,7 +36,7 @@
 
 | 微調後電路圖 | 大信號輸出波形 (5.753 V<sub>pp</sub>) |
 | :---: | :---: |
-| ![Rc 16k](images/fig6_rc16k.png)<br>*圖 6：微調後 R<sub>C</sub> = 16 kΩ 電路圖* | ![Output Swing](images/fig8_swing.png)<br>*圖 8：無失真輸出波形* |
+| ![Rc 16k](images/fig6_rc16k.png)<br>*微調後 R<sub>C</sub> = 16 kΩ 電路圖* | ![Output Swing](images/fig8_swing.png)<br>*無失真輸出波形* |
 
 ---
 
