@@ -26,7 +26,7 @@
 ### 🔬 基礎電路圖與模擬結果
 | LTspice 電路圖 | DC 工作點分析 |
 | :---: | :---: |
-| ![Schematic](images/fig1_schematic.png)<br>*圖 1：CE 放大器原始電路圖* | ![Op Point](images/fig2_op.png)<br>*圖 2：DC 工作點分析（功耗 8.16mW）* |
+| ![Schematic](images/fig1_schematic.png)<br>*CE 放大器原始電路圖* | ![Op Point](images/fig2_op.png)<br>*DC 工作點分析（功耗 8.16mW）* |
 
 ---
 
