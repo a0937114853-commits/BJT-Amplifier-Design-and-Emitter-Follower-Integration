@@ -49,8 +49,7 @@
   <img src="images/fig11_r3.png" width="45%" alt="R3 Schematic"/>
   <img src="images/fig13_r3_out.png" width="45%" alt="R3 Output"/>
 </p>
-<p align="center"><em>加入 $R_3 = 171.2$ Ω 後的電路圖與穩定輸出波形。</em></p>
-
+<p align="center"><em>加入 R<sub>3</sub> = 171.2 Ω 後的電路圖與穩定輸出波形。</em></p>
 ---
 
 ## 4. 射極隨耦器串接與低阻抗負載隔離 (Emitter Follower Integration)
