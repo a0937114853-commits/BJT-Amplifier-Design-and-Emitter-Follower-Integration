@@ -49,7 +49,7 @@
   <img src="images/fig11_r3.png" width="45%" alt="R3 Schematic"/>
   <img src="images/fig13_r3_out.png" width="45%" alt="R3 Output"/>
 </p>
-<p align="center"><em>圖 11-13：加入 $R_3 = 171.2\,\Omega$ 後的電路圖與穩定輸出波形。</em></p>
+<p align="center"><em>加入 $R_3 = 171.2\,\Omega$ 後的電路圖與穩定輸出波形。</em></p>
 
 ---
 
@@ -63,7 +63,7 @@
 
 | 級聯系統電路圖 | 重負載 ($100\,\Omega$) 輸出波形 ($1.548\,\text{V}_{pp}$) |
 | :---: | :---: |
-| ![Follower Schematic](images/fig14_follower.png)<br>*圖 14：CE 串接 Emitter Follower 完整電路圖* | ![Follower Output](images/fig16_follower_out.png)<br>*圖 16：$100\,\Omega$ 負載下的乾淨輸出波形* |
+| ![Follower Schematic](images/fig14_follower.png)<br>*CE 串接 Emitter Follower 完整電路圖* | ![Follower Output](images/fig16_follower_out.png)<br>*$100\,\Omega$ 負載下的乾淨輸出波形* |
 
 ---
 
